@@ -2,9 +2,6 @@
 Thiyane Xavier's Digital Playground
 A showcase of my journey as a web developer
 
-https://img.shields.io/badge/-Live%2520Demo-blue?style=for-the-badge
-https://img.shields.io/github/stars/Thiyane24/My-Portfolio?style=social
-
 🌟 About This Project
 This isn't just another portfolio - it's my digital home where creativity meets code. I've poured my passion for web development into every pixel and line of code to create something that truly represents who I am as a developer.
 
@@ -56,10 +53,6 @@ cd My-Portfolio
 open index.html
 🤝 Let's Connect!
 I'd love to hear your thoughts, suggestions, or just say hello!
-
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 📜 License
 This project is open source and available under the MIT License.
