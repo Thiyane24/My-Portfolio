@@ -40,7 +40,7 @@
                 description: 'A full-stack Hospital solution with appointment reservation',
                 image: 'https://media.istockphoto.com/id/2211325498/photo/people-and-doctors-walking-at-the-hospitals-entrance-hall.webp?a=1&b=1&s=612x612&w=0&k=20&c=8ugh78Mbn1SwpWQNb0ZzeHQh5kfA_d1_DAYrWTg_-34=',
                 tech: ['HTML', 'TailwindCSS', 'JavaScript', 'Node.js'],
-                category: 'fullstack',
+                category: 'frontend',
                 liveUrl: 'https://Thiyane24.github.io/ClinicaSaudeMpt/',
                 githubUrl: 'https://github.com/Thiyane24/ClinicaSaudeMpt',
                 featured: false
